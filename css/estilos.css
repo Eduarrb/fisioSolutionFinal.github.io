@@ -138,6 +138,16 @@ a {
   text-align: center;
 }
 
+.precio {
+  font-family: "Hind Madurai", sans-serif;
+  font-size: 2rem;
+  color: #505050;
+  line-height: 2.4rem;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
 .h-100 {
   height: 100%;
 }
